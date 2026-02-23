@@ -1,0 +1,8 @@
+/* cor do fundo */
+body{
+background-color: rgb(169, 212, 252);
+}
+
+/* cor e tamanho da fonte */
+h1{color: rgb(136, 23, 3);
+font-size:  150px;}

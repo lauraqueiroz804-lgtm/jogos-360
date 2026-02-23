@@ -1,0 +1,15 @@
+/* cor do fundo */
+body{
+    background-color: rgb(204, 174, 231);
+}
+
+/* cor e tamanho do titulo */
+h1{color: rgb(60, 0, 83);
+font-size:  150px;}
+
+
+/* tamanho da imagem jogos 360 */
+.imagem1 {
+    width: 900px;
+    border-radius: 20px;
+}
